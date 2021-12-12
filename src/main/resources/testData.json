@@ -1,0 +1,10 @@
+[
+  {
+    "email": "user@mail.ru",
+    "userName": "newUser",
+    "password": "qwerty123",
+    "passwordConfirmation": "qwerty123",
+    "url": "https://www.google.com/",
+    "keyWord": "EPAM"
+  }
+]
